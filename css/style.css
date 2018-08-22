@@ -242,6 +242,6 @@ li{
     top:35px;
     left: 211px;
     width: 0;
-    height: 2824px;
+    height: calc(100% - 95px);
     border-left: 2px dotted #444;
 }
